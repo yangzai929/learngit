@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git is a version control ststem.
 Git is free hah changede software.
 a change test.
-Git tracks changes
+Git tracks changes of files

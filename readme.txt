@@ -6,3 +6,4 @@ a change test.
 Git tracks changes of files
 Creating a new branch is quick.
 hah 
+Creating a new branch is quick & simple
